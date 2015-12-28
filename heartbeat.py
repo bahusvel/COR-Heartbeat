@@ -1,5 +1,5 @@
 __author__ = 'denislavrov'
-from .api import Message, CORModule
+from cor.api import Message, CORModule
 import threading
 import time
 
